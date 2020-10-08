@@ -2,10 +2,7 @@
 
         <record model="openacademy.course" id="course0">
             <field name="name">Course 0</field>
-            <field name="description">Course 0's description
-
-Can have multiple lines
-            </field>
+            <field name="description">Hello World</field>
         </record>
         <record model="openacademy.course" id="course1">
             <field name="name">Course 1</field>
@@ -15,5 +12,4 @@ Can have multiple lines
             <field name="name">Course 2</field>
             <field name="description">Course 2's description</field>
         </record>
-
 </odoo>
